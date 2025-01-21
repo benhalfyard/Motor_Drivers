@@ -3,4 +3,5 @@
   (lib (name "Hbridge_lib")(type "KiCad")(uri "${KIPRJMOD}/Hbridge_lib.kicad_sym")(options "")(descr ""))
   (lib (name "IRF540NSTRLPBF")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/IRF540NSTRLPBF.kicad_sym")(options "")(descr ""))
   (lib (name "diode-nc_pin")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/diode-nc_pin.kicad_sym")(options "")(descr ""))
+  (lib (name "S4B_PH_K_S_LF__SN_")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/S4B_PH_K_S_LF__SN_.kicad_sym")(options "")(descr ""))
 )
