@@ -7,4 +7,5 @@
   (lib (name "3011")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/3011.kicad_sym")(options "")(descr ""))
   (lib (name "BH-18650-PC")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/BH-18650-PC.kicad_sym")(options "")(descr ""))
   (lib (name "MAX1898")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/MAX1898.kicad_sym")(options "")(descr ""))
+  (lib (name "PJC7404_R1_00001")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/PJC7404_R1_00001.kicad_sym")(options "")(descr ""))
 )
