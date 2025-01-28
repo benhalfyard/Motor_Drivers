@@ -5,186 +5,6 @@
 	(uuid "a020a591-cea5-4f16-9764-82374c05e734")
 	(paper "A4")
 	(lib_symbols
-		(symbol "BH-18650-PC:BH-18650-PC"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "BT"
-				(at -3.81 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "BH-18650-PC"
-				(at -3.81 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "BH-18650-PC:BAT_BH-18650-PC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "05/17/19"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendation"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "21.31mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "MPD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "BH-18650-PC_0_0"
-				(polyline
-					(pts
-						(xy -5.08 1.905) (xy -3.81 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 2.54) (xy -4.445 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.54) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "N"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "P"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Detection_Eval_lib:ESP_Hold"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3223,16 +3043,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 95.25) (xy 168.91 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93f462ff-0808-4167-b28f-46268c2dfcaa")
-	)
-	(wire
-		(pts
 			(xy 90.17 179.07) (xy 90.17 181.61)
 		)
 		(stroke
@@ -3290,16 +3100,6 @@
 			(type default)
 		)
 		(uuid "9fec138e-d044-4eb2-9d62-71bf7f547b5a")
-	)
-	(wire
-		(pts
-			(xy 168.91 80.01) (xy 168.91 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a17f6c78-ee6b-4ba2-aa7a-9a65eeb1ebcd")
 	)
 	(wire
 		(pts
@@ -4896,117 +4696,6 @@
 		)
 	)
 	(symbol
-		(lib_id "BH-18650-PC:BH-18650-PC")
-		(at 168.91 90.17 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53ff5beb-4393-44a2-9ac7-745badb767a8")
-		(property "Reference" "BT1"
-			(at 172.72 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BH-18650-PC"
-			(at 172.72 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:BAT_BH-18650-PC"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "05/17/19"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendation"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "21.31mm"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "MPD"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "P"
-			(uuid "e8398301-7442-4b2e-a561-f913785017a4")
-		)
-		(pin "N"
-			(uuid "d2f17078-7c1c-4a47-9d67-6fe15309dbf4")
-		)
-		(instances
-			(project "H_Bridges"
-				(path "/a020a591-cea5-4f16-9764-82374c05e734"
-					(reference "BT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 87.63 87.63 0)
 		(unit 1)
@@ -5627,72 +5316,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 168.91 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "88edd094-13ba-41dc-98d8-5e9860247afe")
-		(property "Reference" "#PWR06"
-			(at 168.91 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 168.91 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 168.91 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 168.91 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79b9c7c6-ab29-4aa8-a43a-859599cde083")
-		)
-		(instances
-			(project "H_Bridges"
-				(path "/a020a591-cea5-4f16-9764-82374c05e734"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "IRF540NSTRLPBF:IRF540NSTRLPBF")
 		(at 43.18 50.8 0)
 		(unit 1)
@@ -5907,72 +5530,6 @@
 			(project "H_Bridges"
 				(path "/a020a591-cea5-4f16-9764-82374c05e734"
 					(reference "Q8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 168.91 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98103c50-021f-49ee-9433-d487cbd55bb0")
-		(property "Reference" "#PWR07"
-			(at 168.91 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 168.91 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 168.91 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 168.91 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 168.91 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "752c87d2-9ddd-498b-aa13-7ff5505110cb")
-		)
-		(instances
-			(project "H_Bridges"
-				(path "/a020a591-cea5-4f16-9764-82374c05e734"
-					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -6763,7 +6320,7 @@
 		)
 	)
 	(sheet
-		(at 231.14 127)
+		(at 200.66 125.73)
 		(size 38.1 17.78)
 		(fields_autoplaced yes)
 		(stroke
@@ -6775,7 +6332,7 @@
 		)
 		(uuid "4dadbc5e-54c4-496a-92da-5b0d288672d2")
 		(property "Sheetname" "Charger"
-			(at 231.14 126.2884 0)
+			(at 200.66 125.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6784,7 +6341,7 @@
 			)
 		)
 		(property "Sheetfile" "chargecircuit.kicad_sch"
-			(at 231.14 145.3646 0)
+			(at 200.66 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
