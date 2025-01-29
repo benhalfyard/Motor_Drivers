@@ -4267,7 +4267,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6809a4fe-94bb-49c4-b221-9654ec9d5516")
+			(uuid "6809a4fe-94bb-49c4-b221-9654ec9d5517")
 		)
 		(instances
 			(project "H_Bridges"
@@ -5658,7 +5658,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6809a4fe-94bb-49c4-b221-9654ec9d5516")
+			(uuid "6809a4fe-94bb-49c4-b221-9654ec9d5518")
 		)
 		(instances
 			(project "H_Bridges"
