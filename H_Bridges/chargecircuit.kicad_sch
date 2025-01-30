@@ -5065,7 +5065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FBMJ2125HS250NT:BEADC2012X105N"
+		(property "Footprint" "Footprints:BEADC2012X105N"
 			(at 129.54 80.01 0)
 			(effects
 				(font
@@ -5589,7 +5589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WE-MAPI_3015:WE-MAPI_3015"
+		(property "Footprint" "Footprints:WE-MAPI_3015"
 			(at 190.5 110.49 0)
 			(effects
 				(font
@@ -5724,7 +5724,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
 			(at 66.04 48.26 0)
 			(effects
 				(font
