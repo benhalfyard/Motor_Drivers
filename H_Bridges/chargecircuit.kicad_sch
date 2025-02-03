@@ -3417,12 +3417,6 @@
 		(uuid "751e1686-2b51-4532-8125-367c42ae463b")
 	)
 	(junction
-		(at 241.3 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7816e6de-2547-49b4-a9cc-2bd6c79e843a")
-	)
-	(junction
 		(at 173.99 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3477,12 +3471,6 @@
 		(uuid "dcfe86d2-c03b-4483-b08e-b4c2adc685d7")
 	)
 	(junction
-		(at 224.79 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee8eff28-5300-4534-9b9e-92d5e14ac076")
-	)
-	(junction
 		(at 106.68 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3527,16 +3515,6 @@
 			(type default)
 		)
 		(uuid "06ceb4bd-69db-4255-9daa-b830c7ae5208")
-	)
-	(wire
-		(pts
-			(xy 257.81 80.01) (xy 257.81 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06f21b44-f3e8-436a-bfb3-326c4b22e05c")
 	)
 	(wire
 		(pts
@@ -4100,16 +4078,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 88.9) (xy 241.3 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f8b3f6a-4e64-4dca-8672-2d0aedf15755")
-	)
-	(wire
-		(pts
 			(xy 71.12 31.75) (xy 105.41 31.75)
 		)
 		(stroke
@@ -4170,16 +4138,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 91.44) (xy 257.81 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87c285c2-69ae-439e-b12a-ef7d2f8d431e")
-	)
-	(wire
-		(pts
 			(xy 189.23 88.9) (xy 189.23 91.44)
 		)
 		(stroke
@@ -4217,16 +4175,6 @@
 			(type default)
 		)
 		(uuid "8d4c82e0-c8ee-4e9f-9d13-b0c911ae9e16")
-	)
-	(wire
-		(pts
-			(xy 224.79 91.44) (xy 241.3 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92b94eb4-cb8c-4349-aa05-7c4c91cc0649")
 	)
 	(wire
 		(pts
@@ -4317,16 +4265,6 @@
 			(type default)
 		)
 		(uuid "9cfec0c5-ee93-4148-bd3e-589bc97cedcc")
-	)
-	(wire
-		(pts
-			(xy 241.3 80.01) (xy 241.3 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0649f50-1073-4cff-8abe-07e741b4eb29")
 	)
 	(wire
 		(pts
@@ -4557,16 +4495,6 @@
 			(type default)
 		)
 		(uuid "c563f58c-44e4-48a6-8b1a-015f729fac7a")
-	)
-	(wire
-		(pts
-			(xy 241.3 91.44) (xy 257.81 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6177925-1ffe-4692-8871-a553d9903156")
 	)
 	(wire
 		(pts
@@ -4919,17 +4847,6 @@
 		)
 		(uuid "01189866-3416-4f64-b062-a292919f3b9a")
 	)
-	(label "DN"
-		(at 257.81 80.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ad0188c-2af1-47ec-a19a-11ae44a1308d")
-	)
 	(label "DP"
 		(at 82.55 97.79 0)
 		(fields_autoplaced yes)
@@ -4984,17 +4901,6 @@
 			(justify left bottom)
 		)
 		(uuid "686ba981-8a41-4454-90fa-39918c4dc811")
-	)
-	(label "DP"
-		(at 241.3 80.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "891c6352-c6f7-4054-83fd-adbdccd94f37")
 	)
 	(label "CC1"
 		(at 208.28 80.01 0)
@@ -5975,76 +5881,6 @@
 			(project "H_Bridges"
 				(path "/a020a591-cea5-4f16-9764-82374c05e734/4dadbc5e-54c4-496a-92da-5b0d288672d2"
 					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PTVS5V0Z1USK")
-		(at 257.81 85.09 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5288fa03-44be-4cf0-91fa-74d41cbed9f6")
-		(property "Reference" "D16"
-			(at 260.35 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TSD05CDYFR"
-			(at 260.35 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:TVS_SOD2_DYF_TEX-L"
-			(at 253.365 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3da46713-d3da-4172-bd57-8f97dfad4f73")
-		)
-		(pin "2"
-			(uuid "63507b50-109b-463c-8da9-f3734b44972f")
-		)
-		(instances
-			(project "H_Bridges"
-				(path "/a020a591-cea5-4f16-9764-82374c05e734/4dadbc5e-54c4-496a-92da-5b0d288672d2"
-					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -7779,76 +7615,6 @@
 			(project "H_Bridges"
 				(path "/a020a591-cea5-4f16-9764-82374c05e734/4dadbc5e-54c4-496a-92da-5b0d288672d2"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PTVS5V0Z1USK")
-		(at 241.3 85.09 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c18da984-8d80-4704-8f66-9123f25042ab")
-		(property "Reference" "D15"
-			(at 243.84 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TSD05CDYFR"
-			(at 243.84 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:TVS_SOD2_DYF_TEX-L"
-			(at 236.855 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e11ba131-9b56-46a5-97ac-6204a4de8ee1")
-		)
-		(pin "2"
-			(uuid "cc2aef7f-71b9-41c3-a443-676a349baa06")
-		)
-		(instances
-			(project "H_Bridges"
-				(path "/a020a591-cea5-4f16-9764-82374c05e734/4dadbc5e-54c4-496a-92da-5b0d288672d2"
-					(reference "D15")
 					(unit 1)
 				)
 			)
