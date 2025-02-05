@@ -3476,7 +3476,7 @@
 		)
 		(uuid "0466b836-dd9e-4c24-a4fe-a58c6bc19ecc")
 	)
-	(label "P1"
+	(label "P2"
 		(at 212.09 33.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3498,7 +3498,7 @@
 		)
 		(uuid "08b54916-3c5e-40ff-ab85-a4c9172c9aa7")
 	)
-	(label "P2"
+	(label "P1"
 		(at 208.28 33.02 0)
 		(fields_autoplaced yes)
 		(effects
