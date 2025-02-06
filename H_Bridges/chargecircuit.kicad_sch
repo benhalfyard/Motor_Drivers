@@ -3794,16 +3794,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 45.72) (xy 219.71 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a41d7d0-ce0f-4034-b83c-c52ab451bbdf")
-	)
-	(wire
-		(pts
 			(xy 106.68 80.01) (xy 118.11 80.01)
 		)
 		(stroke
@@ -6681,7 +6671,7 @@
 				)
 			)
 		)
-		(property "Value" "PMOS"
+		(property "Value" "PJC7407_R1_00001"
 			(at 162.56 34.29 90)
 			(effects
 				(font
@@ -7730,7 +7720,7 @@
 				)
 			)
 		)
-		(property "Value" "PMOS"
+		(property "Value" "PJC7407_R1_00001"
 			(at 227.33 34.29 90)
 			(effects
 				(font
