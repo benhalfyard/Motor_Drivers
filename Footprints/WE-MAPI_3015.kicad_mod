@@ -1,55 +1,208 @@
-
-(footprint WE-MAPI_3015 (layer F.Cu) (tedit 679A63CE)
-  (descr "<b>WE-MAPI  SMD Power Inductorr<br></b><br>Size:3015,SMT,2pins<br>LXWXH=3X3X1.5mm")
-  (attr smd)
-  (fp_text reference REF** (at 0.0 -2.835 0) (layer F.SilkS)
-    (effects (font (size 1.0 1.0) (thickness 0.15)))
-  )
-  (fp_text value WE-MAPI_3015 (at 0.0 2.865 0) (layer F.Fab)
-    (effects (font (size 1.0 1.0) (thickness 0.15)))
-  )
-  (pad 1 smd rect (at -1.05 0.0) (size 1.3 3.4) (layers F.Cu F.Mask F.Paste) (solder_mask_margin 0.102))
-  (pad 2 smd rect (at 1.05 0.0) (size 1.3 3.4) (layers F.Cu F.Mask F.Paste) (solder_mask_margin 0.102))
-  (fp_line (start -1.5 -1.5) (end 1.5 -1.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 1.5 -1.5) (end 1.5 1.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 1.5 1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
-  (fp_line (start -1.5 1.5) (end -1.5 -1.5) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.1 -1.6) (end 0.1 -1.6) (layer F.SilkS) (width 0.2))
-  (fp_line (start -0.1 1.6) (end 0.1 1.6) (layer F.SilkS) (width 0.2))
-  (fp_poly
-    (pts
-      (xy -1.9 -1.9)
-      (xy 1.9 -1.9)
-      (xy 1.9 1.9)
-      (xy -1.9 1.9)
-    ) (layer F.CrtYd) (width 0.1)
-  )
-  (zone (net 0) (net_name "") (layer F.Cu) (hatch full 0.508)
-    (connect_pads (clearance 0))
-    (min_thickness 0.01)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy -0.4 -1.7)
-        (xy 0.4 -1.7)
-        (xy 0.4 1.7)
-        (xy -0.4 1.7)
-      )
-    )
-  )
-  (zone (net 0) (net_name "") (layers *.Cu) (hatch full 0.508)
-    (connect_pads (clearance 0))
-    (min_thickness 0.01)
-    (keepout (tracks allowed) (vias not_allowed) (pads allowed ) (copperpour allowed) (footprints allowed))
-    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy -0.4 -1.7)
-        (xy 0.4 -1.7)
-        (xy 0.4 1.7)
-        (xy -0.4 1.7)
-      )
-    )
-  )
+(footprint "WE-MAPI_3015"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>WE-MAPI  SMD Power Inductorr<br></b><br>Size:3015,SMT,2pins<br>LXWXH=3X3X1.5mm")
+	(property "Reference" "REF**"
+		(at 0 -2.835 0)
+		(layer "F.SilkS")
+		(uuid "abadd725-94ef-4f14-82be-2ca114f6e805")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WE-MAPI_3015"
+		(at 0 2.865 0)
+		(layer "F.Fab")
+		(uuid "eed657aa-0a2e-4882-a30c-169d310a9379")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1fc2f69e-51e8-49c4-a298-be0fea0b3a7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2c3de09-9082-40bc-814b-590ff6a60b45")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80f400f3-a44b-4005-a11b-2eec4f581088")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.1 -1.6)
+		(end 0.1 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a85bf253-2b5d-4ab7-af4e-02904b1832b3")
+	)
+	(fp_line
+		(start -0.1 1.6)
+		(end 0.1 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1b2b02f2-4f7a-4eec-af45-077d29f17160")
+	)
+	(fp_poly
+		(pts
+			(xy -1.9508 -1.9508) (xy 1.9762 -1.9508) (xy 1.9762 1.9508) (xy -1.9508 1.9508)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.CrtYd")
+		(uuid "58eba22a-92fe-4e73-8f8f-7ac0c1c5bb11")
+	)
+	(fp_line
+		(start -1.5 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ed06375-c9e9-48a4-9684-f0aef6938c83")
+	)
+	(fp_line
+		(start -1.5 1.5)
+		(end -1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4bafa3a8-ecb1-484f-b6f0-f0c01f4ed0f2")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "242f3311-be5d-4fc9-9a32-c74abb8f0af6")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end -1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0dc8e3b0-74e0-4172-87f0-1147814dca26")
+	)
+	(pad "1" smd rect
+		(at -1.15 0)
+		(size 1.5 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "3fddabb3-9873-4800-ac7c-dd26bf1256b3")
+	)
+	(pad "2" smd rect
+		(at 1.15 0)
+		(size 1.5 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "7babdf32-50f6-4f5f-a1eb-3456a381b20a")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "8cf40742-8ebf-4325-96fd-41eee770f0a6")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -0.4 -1.7) (xy 0.4 -1.7) (xy 0.4 1.7) (xy -0.4 1.7)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "*.Cu")
+		(uuid "c0d2b9bd-610a-41c1-a9a5-9ba37d390d01")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -0.4 -1.7) (xy 0.4 -1.7) (xy 0.4 1.7) (xy -0.4 1.7)
+			)
+		)
+	)
 )
