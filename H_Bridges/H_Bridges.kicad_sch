@@ -7468,7 +7468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ESP8266_THT:ESP8266_THT"
+		(property "Footprint" "Module:Adafruit_HUZZAH_ESP8266_breakout"
 			(at 229.87 49.53 0)
 			(effects
 				(font

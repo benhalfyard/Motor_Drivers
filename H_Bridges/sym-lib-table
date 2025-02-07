@@ -14,4 +14,5 @@
   (lib (name "FBMJ2125HS250NT")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/FBMJ2125HS250NT.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61023DRLR")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/TPS61023DRLR.kicad_sym")(options "")(descr ""))
   (lib (name "744383350047")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/744383350047.kicad_sym")(options "")(descr ""))
+  (lib (name "5530121F")(type "KiCad")(uri "/Users/benhalfyard/Documents/GitHub/Motor_Drivers/Symbols/5530121F.kicad_sym")(options "")(descr ""))
 )
