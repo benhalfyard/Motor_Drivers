@@ -5487,7 +5487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "FBMJ2125HS250NT"
 			(at 129.54 80.01 0)
 			(effects
 				(font
@@ -5555,7 +5555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C0603C104K4RACTU"
 			(at 109.22 31.75 0)
 			(effects
 				(font
@@ -5625,7 +5625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "CC0603KRX5R8BB105"
 			(at 118.11 85.09 0)
 			(effects
 				(font
@@ -5762,7 +5762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BH-18650-PC"
 			(at 203.2 48.26 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C0603C104K4RACTU"
 			(at 143.51 85.09 0)
 			(effects
 				(font
@@ -6008,7 +6008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "GRM188R61E106KA73D"
 			(at 250.19 137.16 0)
 			(effects
 				(font
@@ -6077,7 +6077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "744383350047"
 			(at 190.5 110.49 0)
 			(effects
 				(font
@@ -6428,7 +6428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "USB4085-GF-A_REVB"
 			(at 69.85 102.87 0)
 			(effects
 				(font
@@ -6672,7 +6672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "ERJ-3EKF7323V"
 			(at 234.95 132.08 0)
 			(effects
 				(font
@@ -6813,7 +6813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ignore"
 			(at 77.47 148.59 0)
 			(effects
 				(font
@@ -6880,7 +6880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "GRM188R61E106KA73D"
 			(at 261.62 137.16 0)
 			(effects
 				(font
@@ -7086,7 +7086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "PJC7407_R1_00001"
 			(at 149.86 40.64 0)
 			(effects
 				(font
@@ -7322,7 +7322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "TSD05CDYFR"
 			(at 189.23 85.09 0)
 			(effects
 				(font
@@ -7392,7 +7392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "TSD05CDYFR"
 			(at 224.79 85.09 0)
 			(effects
 				(font
@@ -7465,7 +7465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ignore"
 			(at 83.82 148.59 0)
 			(effects
 				(font
@@ -7532,7 +7532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "GRM188R61E106KA73D"
 			(at 189.23 43.18 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C0603C104K4RACTU"
 			(at 71.12 63.5 0)
 			(effects
 				(font
@@ -7939,7 +7939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ignore"
 			(at 96.52 148.59 0)
 			(effects
 				(font
@@ -8201,7 +8201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+		(property "Datasheet" "PJC7407_R1_00001"
 			(at 240.03 40.64 0)
 			(effects
 				(font
@@ -8301,7 +8301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "TSD05CDYFR"
 			(at 208.28 85.09 0)
 			(effects
 				(font
@@ -8440,7 +8440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ignore"
 			(at 90.17 148.59 0)
 			(effects
 				(font
@@ -8582,7 +8582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "UPS115UE3/TR7"
 			(at 179.07 38.1 0)
 			(effects
 				(font
@@ -8652,7 +8652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "GRM188C61E226ME01W"
 			(at 152.4 124.46 0)
 			(effects
 				(font
@@ -9014,7 +9014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RMCF0603FT2K80"
 			(at 60.96 63.5 0)
 			(effects
 				(font
@@ -9084,7 +9084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "GRM188R61E106KA73D"
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -9152,7 +9152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "UPS115UE3/TR7"
 			(at 156.21 80.01 0)
 			(effects
 				(font
@@ -9220,7 +9220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "ERJ-3EKF3000V"
 			(at 54.61 45.72 0)
 			(effects
 				(font

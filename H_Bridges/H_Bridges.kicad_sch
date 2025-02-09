@@ -4792,7 +4792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "Ignore"
 			(at 240.03 144.78 0)
 			(effects
 				(font
@@ -4904,7 +4904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 114.3 31.75 0)
 			(effects
 				(font
@@ -4971,7 +4971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 226.06 114.3 0)
 			(effects
 				(font
@@ -5040,7 +5040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 107.95 166.37 0)
 			(effects
 				(font
@@ -5174,7 +5174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 30.48 76.2 0)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 105.41 49.53 0)
 			(effects
 				(font
@@ -5444,7 +5444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 107.95 143.51 0)
 			(effects
 				(font
@@ -5653,7 +5653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 33.02 170.18 0)
 			(effects
 				(font
@@ -5723,7 +5723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 86.36 72.39 0)
 			(effects
 				(font
@@ -5856,7 +5856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 226.06 109.22 0)
 			(effects
 				(font
@@ -5992,7 +5992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 88.9 143.51 0)
 			(effects
 				(font
@@ -6060,7 +6060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 30.48 50.8 0)
 			(effects
 				(font
@@ -6129,7 +6129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 105.41 72.39 0)
 			(effects
 				(font
@@ -6340,7 +6340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 116.84 125.73 0)
 			(effects
 				(font
@@ -6410,7 +6410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 116.84 187.96 0)
 			(effects
 				(font
@@ -6555,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -6764,7 +6764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 33.02 144.78 0)
 			(effects
 				(font
@@ -7050,7 +7050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ignore"
 			(at 219.964 129.54 0)
 			(effects
 				(font
@@ -7339,7 +7339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0603FR-071KL"
 			(at 114.3 93.98 0)
 			(effects
 				(font
@@ -7409,7 +7409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/de/produktliste/D.html"
+		(property "Datasheet" "BAS40-04"
 			(at 88.9 166.37 0)
 			(effects
 				(font
@@ -7477,7 +7477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "Ignore"
 			(at 229.87 49.53 0)
 			(effects
 				(font
